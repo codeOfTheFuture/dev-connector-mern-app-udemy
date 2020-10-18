@@ -1,0 +1,19 @@
+{
+  "name": "dev-connector-mern-app-udemy",
+  "version": "1.0.0",
+  "description": "MERN Stack application from udemy course MERN Stack Front to Back",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeOfTheFuture/dev-connector-mern-app-udemy.git"
+  },
+  "author": "Jeffrey Oliver",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codeOfTheFuture/dev-connector-mern-app-udemy/issues"
+  },
+  "homepage": "https://github.com/codeOfTheFuture/dev-connector-mern-app-udemy#readme"
+}
