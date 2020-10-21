@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://jeffrey-oliver-dev:H$e00ss1@devconnector.amg6n.mongodb.net/DevConnector?retryWrites=true&w=majority",
-  "jwtSecret": "goBills!"
+  "jwtSecret": "goBills!",
+  "githubClientId": "914ea54b09f031b02a95",
+  "githubSecret": "961ec8dd45fbe1972e026d1d589579b5487d6e1e"
 }
